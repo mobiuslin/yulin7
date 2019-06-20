@@ -1,0 +1,8 @@
+关于提交git指令
+git config -global user.name 'mobiuslin'
+git config -global user.email '1710353485@qq.com'
+git init
+touch a.php
+git add a.php
+git commit -m 'first git'
+git push
